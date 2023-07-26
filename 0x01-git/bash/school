@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "School"
+^c
+^C
+
+root@ab2f92d87973:~/alx-pre_course/0x01-git/bash#  git add .
+
